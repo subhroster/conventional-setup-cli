@@ -1,6 +1,18 @@
 {
   "name": "conventional-setup-cli",
   "version": "1.0.1",
+  "keywords": [
+    "conventional-commits",
+    "commitizen",
+    "release-it",
+    "commitlint",
+    "husky",
+    "git-hooks",
+    "automation",
+    "cli-tool",
+    "versioning",
+    "changelog"
+  ],
   "bin": {
     "conventional-setup": "./index.js"
   },
